@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Christian
+- 👀 I'm interested in computer science
+- 🌱 I’m currently learning IA 
+- 📫 How to reach me: chrilanci00@gmail.com
+- 😄 Pronouns: Lancio
