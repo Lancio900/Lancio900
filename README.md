@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian
 - 👀 I'm interested in computer science
-- 🌱 I’m currently learning IA 
+- 🌱 I’m currently learning CyberSecurity, IA, Socket.
 - 📫 How to reach me: chrilanci00@gmail.com
-- 😄 Pronouns: Lancio
+- 😄 Pronouns: M.A.R.X
